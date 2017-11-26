@@ -13,10 +13,6 @@
 
 
 
-[Aide]()
-
-  * [Avoir une copie du site](help)
-
 
 
 
